@@ -1,0 +1,112 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 9,
+  "numPassedTests": 8,
+  "numFailedTests": 1,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1720194076835,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxe QueryClientProvider eklenmiş",
+          "status": "skipped",
+          "title": "App.jsxe QueryClientProvider eklenmiş",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " SideBar componentinde useEffect kaldırılmış",
+          "status": "skipped",
+          "title": "SideBar componentinde useEffect kaldırılmış",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Contact componentinde useEffect kaldırılmış",
+          "status": "skipped",
+          "title": "Contact componentinde useEffect kaldırılmış",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Contactlar listeleniyor",
+          "status": "skipped",
+          "title": "Contactlar listeleniyor",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " New Butonu Çalışıyor",
+          "status": "skipped",
+          "title": "New Butonu Çalışıyor",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni kullanıcı kayıt ediliyor",
+          "status": "skipped",
+          "title": "Yeni kullanıcı kayıt ediliyor",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Home Butonu Çalışıyor",
+          "status": "skipped",
+          "title": "Home Butonu Çalışıyor",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kullanıcı detaylarını gösteriyor",
+          "status": "skipped",
+          "title": "Kullanıcı detaylarını gösteriyor",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kullanıcıyı siliyor",
+          "status": "failed",
+          "title": "Kullanıcıyı siliyor",
+          "duration": 33,
+          "failureMessages": [
+            "expected 'Once tanStackQueryi ekleyin ve useEff…' to be 'Implemented' // Object.is equality"
+          ],
+          "location": {
+            "line": 107,
+            "column": 25
+          }
+        }
+      ],
+      "startTime": 1720194079314,
+      "endTime": 1720194079347,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-h4fjs4/src/__tests__/index.test.jsx"
+    }
+  ]
+}
